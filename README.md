@@ -9,7 +9,7 @@
 ![](https://img.shields.io/npm/dw/remark)
 
 </div>
-<hr>
+<hr><br>
 
 Kkoma Chat은 node.js로 만든 웹사이트 전용 챗봇입니다. [Baby Chat](#)에 영감을 받아, 실행 구조는 똑같지만 웹사이트에 쉽게 연동할 수 있도록 개선했습니다. 설정 파일 하나만 만들면 당장 웹사이트에 챗봇 창을 붙일 수 있습니다.
 
