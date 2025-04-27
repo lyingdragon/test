@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/lyingdragon/test/assets/4422798/2573a766-5c1f-499f-ab3e-9317d9724af9" width="100"></div>
 <div align="center"><h1>Kkoma Chat</h1></div>
-<div align="center">웹브라우저에서 실행하는 웹 검색 AI 챗봇</div>
+<div align="center">설정 한 번으로 웹브라우저에서 실행하는 웹 검색 AI 챗봇</div>
 <div align="center"><br>
 
 ![](https://img.shields.io/badge/build-passing-brightgreen)
